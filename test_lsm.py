@@ -1,4 +1,4 @@
-"""Run with:  python -m unittest -v test_lsm"""
+3"""Run with:  python -m unittest -v test_lsm"""
 
 import os
 import random

@@ -496,3 +496,6 @@ if __name__ == "__main__":
     print("MANIFEST     :", open(os.path.join(d, "MANIFEST")).read()[:160], "...")
     db.check_invariants()
     shutil.rmtree(d)
+    print("i love India")
+print("i love India")
+print("i love India")
